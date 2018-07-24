@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoobCalculator</string>
+    <string name="sum">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+</resources>
